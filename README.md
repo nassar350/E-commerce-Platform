@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?size=30&lines=E-commerce+Platform" alt="head" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=E-commerce+Platform" alt="head" />
 </p>
 
 ## Project Description
@@ -140,7 +140,7 @@ INSERT INTO order_list (Order_id, Product_id, Product_quantity) VALUES
 ## Project Screens
 Here are some screenshots of the project:
 
-*Base App Page*
+*Base Application Page*
 ![Screenshot 1](./GUI%20Pictures/Base%20App%20Page.png)
 
 *Add A Customer Page*
