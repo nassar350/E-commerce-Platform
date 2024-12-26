@@ -141,6 +141,9 @@ INSERT INTO order_list (Order_id, Product_id, Product_quantity) VALUES
 Here are some screenshots of the project:
 
 *Base Application Page*
+
+<br />
+
 ![Screenshot 1](./GUI%20Pictures/Base%20App%20Page.png)
 
 *Add A Customer Page*
